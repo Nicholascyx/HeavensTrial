@@ -72,3 +72,10 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Large fab files
+Content/ScifiJungle/*
+Content/ExternalObjects/*
+Content/ExternalActors/*
+Content/ElfArden/*
+Content/__ExternalActors__/*
