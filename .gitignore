@@ -74,8 +74,8 @@ Plugins/**/Intermediate/*
 DerivedDataCache/*
 
 # Large fab files
-Content/ScifiJungle/*
 Content/ExternalObjects/*
 Content/ExternalActors/*
-Content/ElfArden/*
+Content/__ExternalObjects__/*
 Content/__ExternalActors__/*
+Content/ElfArden/*
